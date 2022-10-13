@@ -1,0 +1,15 @@
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\obj\Debug\net6.0\Matrices.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\obj\Debug\net6.0\Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\obj\Debug\net6.0\Matrices.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\obj\Debug\net6.0\Matrices.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\obj\Debug\net6.0\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\bin\Debug\net6.0\Matrices.exe
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\bin\Debug\net6.0\Matrices.deps.json
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\bin\Debug\net6.0\Matrices.runtimeconfig.json
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\bin\Debug\net6.0\Matrices.dll
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\bin\Debug\net6.0\Matrices.pdb
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\obj\Debug\net6.0\Matrices.dll
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\obj\Debug\net6.0\refint\Matrices.dll
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\obj\Debug\net6.0\Matrices.pdb
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\obj\Debug\net6.0\Matrices.genruntimeconfig.cache
+C:\Users\kevin\OneDrive\Documentos\colegioxd\segundo semestre\TAREA1\Matrices\obj\Debug\net6.0\ref\Matrices.dll
